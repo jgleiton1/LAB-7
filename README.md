@@ -4,9 +4,15 @@
 
 1.1. Objetivo General:
 
+Identificar los materials qque se van a utilizar para armar respectivamente los circuitos planteados en la guia, mediant el uso de multisim u otro sistema de ssimulaciòn que contenga un oscilador para poder obtener los valores que requiere cada literal con sus respectivas evidencias. 
 
 1.2. Objetivos Específicos:
 
+Armar los circuitos correctamnete para que se pueda realizar el trabajo de la mejor manera.
+
+Tomar las medidas que se  requieren en los literales del documento, para mejorar la practica.
+
+Familiarizarse con los nuevos instrumentos de medida que se van a utilizar en el laboratorio, para realizzar una buena práctica.
 
 2. Marco Teórico
 
@@ -131,6 +137,12 @@ Circuito 2
 https://www.youtube.com/watch?v=SoGLtSTmn4Y
 
 7. Conclusiones
+
+Los circuitos planteados en la guía se difetenican puesto que el primero se trabaja con capacitores y el segundo con inductores, los cuales proveen diferentes medidas y se puede observar sus diferencias entre si.  Puesto que los condensadores y bobinas en un circuito de corriente alterna desfasa la intensisdad de corriente respecto a  la fem.
+
+Los condensadores son dispositivos que permiten la carga y descarga de energía y lo que da paso a el almacenamiento de estas en cualquier tiempo , es decir el tiempo que sea necesario. Los condensadores que estan conectados en serie se comportan como resistores en  paralelo y cuando estan conectados en paralelo se comportan como resistores en serie. 
+
+Es de gran importancia tener conocimiento de las deficiniciones concretas de cada uno de los elementos que se utiliza en el laboratorio, su funcinamiento, que medidas nomas se puede obtener y lo más importante como se lo utiliza de manera correcta, para adquirir tanto el conocimiento como la practica es necesario investigar y  profundizar el tema que se esta tratando. 
 
 8. Bibliografía
 
