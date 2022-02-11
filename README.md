@@ -103,12 +103,22 @@ Circuito 2
 
 ![image](https://user-images.githubusercontent.com/93958596/153533962-ebbdd554-c11b-4669-a7db-e15922ef4039.png)
 
-1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+1. ¿Cómo se comporta la bobina y el capacitor en corriente continua (cero Hz)?
 
+        La boina en corriente continua (0 Hz) se comporta como cortocircuito, es por esto que no marca voltaje en sus extremos ni corriente en la resistencia.
+        
+        Los capacitores pueden conducir corriente continua durante sólo un instante, es decir que se comporta como un circuito abierto, es por esto que no marca voltaje en sus extremos ni corriente en la resistencia.
 
+2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-4. ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-5. ¿Qué son los valores eficaces de voltaje y corriente?
+        En corriente alterna, una bobina provoca una resistencia al paso de la corriente eléctrica y a este efecto se lo conoce como reactancia inductiva.Es decir además de poseer corriente esta también tiene la presencia voltaje, debido debido al efecto de de frecuencia.
+        
+        En corriente alterna, un capacitor permite el paso de la corriente eléctrica, es por esto que es muy útil cuando se trata de CA.
 
+3. ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+        Al colocar dos capacitores o bobinas de diferente valor en elcircuito,se facilita obtener los datos de Vo porque se puede reducir el circuito  a su mínima expresión, esto usando el concepto de fasores, en los cuales a las impedancias y a las inductancias se las convierte en el dominio fasorial y reduciéndolo al concepto de circuito serie, paralelo.
+
+4. ¿Qué son los valores eficaces de voltaje y corriente?
+
+        Los valores eficaces, ya sean de voltaje o de corriente, son aquellas medidas del efecto calefactor de una onda seno, estos valores eficaces son mejor conocidos como valor rms (raíz cuadrática media).La mayoría de los voltímetros muestran voltaje rms.
