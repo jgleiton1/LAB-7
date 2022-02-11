@@ -129,3 +129,4 @@ Circuito 2
 
 8. Bibliografía
 
+Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
