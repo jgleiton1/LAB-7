@@ -88,3 +88,27 @@
 ![image](https://user-images.githubusercontent.com/94153604/153465623-c7ee56f8-eff4-4281-97ae-5e034aed0395.png)
 
 ![image](https://user-images.githubusercontent.com/94153604/153465738-881e4ca9-1958-4240-914b-3b47b1cfa01f.png)
+
+4. Materiales y Equipos requeridos
+
+![image](https://user-images.githubusercontent.com/93958596/153533827-8887d40a-f4f0-437c-b04d-4dd11c7479a8.png)
+
+5. Respuestas a interrogantes y cálculo de error
+
+Circuito 1 
+
+![image](https://user-images.githubusercontent.com/93958596/153533942-68bd219f-dbc6-4d9c-9765-7f46a64f29b1.png)
+
+Circuito 2
+
+![image](https://user-images.githubusercontent.com/93958596/153533962-ebbdd554-c11b-4669-a7db-e15922ef4039.png)
+
+1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+
+
+3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+4. ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+5. ¿Qué son los valores eficaces de voltaje y corriente?
+
+
