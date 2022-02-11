@@ -128,6 +128,8 @@ Circuito 2
 
 6. Video
 
+https://www.youtube.com/watch?v=SoGLtSTmn4Y
+
 7. Conclusiones
 
 8. Bibliografía
