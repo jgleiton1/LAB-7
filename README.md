@@ -10,6 +10,9 @@
 
 2. Marco Teórico
 
+![image](https://user-images.githubusercontent.com/94011974/153541090-7bfdaa6d-ad0b-48a1-8bc8-05f47195c7f2.png)
+
+![image](https://user-images.githubusercontent.com/94011974/153541112-9fde6476-4bda-482d-99f5-62f99fe7bb58.png)
 
 3. Requisistos Previos
 
