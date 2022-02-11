@@ -122,3 +122,10 @@ Circuito 2
 4. ¿Qué son los valores eficaces de voltaje y corriente?
 
         Los valores eficaces, ya sean de voltaje o de corriente, son aquellas medidas del efecto calefactor de una onda seno, estos valores eficaces son mejor conocidos como valor rms (raíz cuadrática media).La mayoría de los voltímetros muestran voltaje rms.
+
+6. Video
+
+7. Conclusiones
+
+8. Bibliografía
+
